@@ -1,0 +1,4 @@
+rise_ost/
+node_modules/
+*.cpp
+*.h
